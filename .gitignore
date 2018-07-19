@@ -35,6 +35,10 @@ build/Release
 # Dependency directories
 node_modules/
 jspm_packages/
+taro-usage-sample/node_modules/
+taro-usage-sample/dist/
+taro-usage-sample/.temp/
+
 
 # TypeScript v1 declaration files
 typings/
